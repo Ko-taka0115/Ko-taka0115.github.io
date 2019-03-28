@@ -3,7 +3,9 @@ body {
 }
 #dot1{
     color: green;
+    display: inline-block;
 }
 #them{
     font-family: sans-serif;
+    display: inline-block;
 }
