@@ -3,7 +3,7 @@ body {
     font-family: sans-serif;
     padding-left: 400px;
     padding-right: 400px;
-
+    
 }
 #dot1{
     color: green;
@@ -26,4 +26,9 @@ li{
 #time{
     display: inline-block;
 }
-
+#bord h2{
+    color: white;
+}
+#bord li{
+    color:bisque;
+}
