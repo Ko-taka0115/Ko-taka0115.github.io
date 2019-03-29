@@ -7,6 +7,7 @@ body {
 }
 #dot1{
     color: green;
+    display: inline-block;
 }
 #them{
     font-family: sans-serif;
@@ -22,5 +23,7 @@ body {
 li{
     text-align: center;
 }
-
+#time{
+    display: inline-block;
+}
 
