@@ -1,12 +1,26 @@
 body {
     background-color: azure;
+    font-family: sans-serif;
+    padding-left: 400px;
+    padding-right: 400px;
+
 }
 #dot1{
     color: green;
-    display: inline-block;
 }
 #them{
     font-family: sans-serif;
-    display: inline-block;
     background-color: orange;
+    padding-left: 200px;
 }
+.A{
+    text-align: center;
+}
+.DAT{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+
+
