@@ -1,9 +1,9 @@
 body {
     background-color: azure;
     font-family: sans-serif;
-    padding-left: 400px;
+    /*padding-left: 400px;
     padding-right: 400px;
-    
+    */
 }
 #dot1{
     color: green;
@@ -12,7 +12,7 @@ body {
 #them{
     font-family: sans-serif;
     background-color: orange;
-    padding-left: 200px;
+   text-align: center;
 }
 .A{
     text-align: center;
@@ -31,4 +31,11 @@ li{
 }
 #bord li{
     color:bisque;
+}
+#sas{
+    float:left;
+}
+#bord{
+    float:right;
+    width: 50%;
 }
